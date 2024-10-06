@@ -1,0 +1,23 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:Abhi123@localhost/flask1",
+        "prod_uri":"mysql://root:Abhi123@localhost/flask1",
+        "fb_url":"https://facebook.com/My_First_Flask",
+        "tw_url":"https://twitter.com/My_First_Flask",
+        "gh_url":"https://github.com/My_First_Flask",
+        "blog_name":"My First Flask",
+        "tagline":"A Blog Created by programmers",
+        "gmail_user":"sudesh.kumar.das.cse.2023@tint.edu.in",
+        "gmail_pswd":"#Abhi@123",
+        "about_txt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur magnam, excepturi aliquid ex itaque esse est vero natus quae optio aperiam soluta voluptatibus corporis atque iste neque sit tempora!",
+        "no_of_posts":3,
+        "login_image":"login.png",
+        "admin_user":"avik@blog.com",
+        "admin_password": "abhi123",
+        "user_name":"Admin Panel",
+        "user_text":"Manage and Modify your posts Here",
+        "upload_location":"D:\\Web Dev using flask\\files"
+    }   
+}
